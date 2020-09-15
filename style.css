@@ -5,14 +5,14 @@
     <title></title>
     <style>
       body {
-        background-color:lightcyan
+        background-color: lightcyan
       }
 
       hr {
-        border-style:groove;
-        border-color:indianred;
-        border-width:8px;
-        background-color:none;
+        border-style: groove;
+        border-color: indianred;
+        border-width: 8px;
+        background-color: none;
       }
     </style>
   </head>
