@@ -2,4 +2,4 @@
 
 ![Screenshot](Screenshot.jpg)
 
-[Live Demo](https://rinki88.github.io/rinki/)
+[Live Demo](https://rinki88.github.io/rinki-cv/)
